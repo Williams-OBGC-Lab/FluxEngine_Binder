@@ -8,3 +8,7 @@ Click the badge below to launch a binder. Everything will be self-contained and 
 Notebooks:
 
 -`FluxEngineTutorials` (https://github.com/oceanflux-ghg/FluxEngine) was created by Jamie Shutler and has been adapted here to work in a Binder.
+
+## Thanks
+
+This is a such a great resource. Thanks for all your effort!
